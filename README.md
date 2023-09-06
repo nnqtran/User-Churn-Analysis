@@ -4,9 +4,9 @@
 
 ### 1. Introduction to Dataset
 
-- User churn refers to the phenomenon of customers or users of a product or service disengaging or ceasing to use it over time, which can be detrimental to the business.
-- Understanding the reasons why users churn can help companies develop strategies to retain their customers and improve their overall product or service.
-- The dataset includes a **dim table** containing information about users of a telecommunications network company, including fields of demographic information and information related to the **user's churn**.
+- User churn, in essence, is when customers or users of a product or service gradually become less engaged or stop using it, posing potential harm to a business.
+- Grasping the underlying causes behind user churn can empower companies to formulate tactics for customer retention and enhance their overall product or service.
+- Within the dataset, there is a **dimension table** housing data about customers in a telecommunications network company. This table encompasses demographic details as well as **churn-related information for each user**.
 
 ### 2. Data Dictionary
 
